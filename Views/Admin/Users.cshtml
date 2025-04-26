@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Manage Users";
+    var users = ViewBag.Users;
+}
+
+<h2>Users</h2>
+
+<a asp-action="CreateUser">Add New User</a>
+
+<table>
+    <tr>
+        <th>Username</th>
+        <th>Name</th>
+        <th>Role</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var u in users)
+    {
+        <tr>
+            <td>@u.Username</td>
+            <td>@u.FirstName @u.LastName</td>
+            <td>@u.Role</td>
+            <td>
+                <a asp-action="EditUser" asp-route-id="@u.Id">Edit</a>
+                <a asp-action="DeleteUser" asp-route-id="@u.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    /table>

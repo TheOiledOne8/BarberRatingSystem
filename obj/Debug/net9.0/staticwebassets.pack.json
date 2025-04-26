@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\BarberRatingSystem.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BarberRatingSystem.adzw2nlupg.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\1600524342700.png",
+      "PackagePath": "staticwebassets\\uploads\\1600524342700.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\310.png",
+      "PackagePath": "staticwebassets\\uploads\\310.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\3f775681-4ed1-40e2-a9f5-a2d518fde500.png",
+      "PackagePath": "staticwebassets\\uploads\\3f775681-4ed1-40e2-a9f5-a2d518fde500.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\83700709-5366-42fa-b497-f6ac36e35d62.png",
+      "PackagePath": "staticwebassets\\uploads\\83700709-5366-42fa-b497-f6ac36e35d62.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\8d2dc4b6-20dc-4f7f-8619-e175ed65b850.png",
+      "PackagePath": "staticwebassets\\uploads\\8d2dc4b6-20dc-4f7f-8619-e175ed65b850.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\8wfy00j9hnt51.png",
+      "PackagePath": "staticwebassets\\uploads\\8wfy00j9hnt51.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\a100a8ac-f193-4365-81f4-bbaded2de376.png",
+      "PackagePath": "staticwebassets\\uploads\\a100a8ac-f193-4365-81f4-bbaded2de376.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\d5998c5e-c8d1-4a90-86f5-049bc8540b48.png",
+      "PackagePath": "staticwebassets\\uploads\\d5998c5e-c8d1-4a90-86f5-049bc8540b48.png"
+    },
+    {
+      "Id": "C:\\Users\\Computer\\Desktop\\SchoolManager\\BarberRatingSystem\\BarberRatingSystem\\wwwroot\\uploads\\dffc2792-96fe-4ac6-8462-38b5ffdc037e.png",
+      "PackagePath": "staticwebassets\\uploads\\dffc2792-96fe-4ac6-8462-38b5ffdc037e.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BarberRatingSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.BarberRatingSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.BarberRatingSystem.props",
+      "PackagePath": "build\\BarberRatingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.BarberRatingSystem.props",
+      "PackagePath": "buildMultiTargeting\\BarberRatingSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.BarberRatingSystem.props",
+      "PackagePath": "buildTransitive\\BarberRatingSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

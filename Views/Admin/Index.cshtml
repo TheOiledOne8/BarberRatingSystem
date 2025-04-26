@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<ul>
+<li>Total Users: @ViewBag.UserCount</li>
+<li>Total Barbers: @ViewBag.BarberCount</li>
+<li>Total Reviews: @ViewBag.ReviewCount</li>
+</ul>
+
+<a asp-controller="Admin" asp-action="CreateBarber" class="btn btn-primary">
+    Create New Barber
+
+</a>
+
+<a asp-controller="Admin" asp-action="Barbers" class="btn btn-primary">
+    Barbers
+
+</a>

@@ -1,0 +1,34 @@
+﻿@Html.ValidationSummary(true, "", new {@class = "text-danger"})
+@model BarberRatingSystem.Models.User
+
+@{
+    ViewData["Title"] = "Register";
+}
+
+<h2>Register</h2>
+
+<partial name="_ValidationScriptsPartial" />
+
+<form asp-controller="Account" asp-action="Register" method="post">
+    <div>
+        <label asp-for="UserName"></label>
+        <input asp-for="UserName" />
+        <span asp-validation-for="UserName" class="text-danger"></span>
+    </div>
+<div>
+    <label asp-for="Password"></label>
+    <input asp-for="Password" type="password" />
+    <span asp-validation-for="Password" class="text-danger"></span>
+</div>
+<div>
+    <label asp-for="FirstName"></label>
+    <input asp-for="FirstName" />
+</div>
+    <div>
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" />
+    </div>
+
+    <button type="submit">Register</button>
+
+</form>

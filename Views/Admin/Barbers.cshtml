@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BarberRatingSystem.Models.Barber>
+@{
+    ViewData["Title"] = "Manage Barbers";
+}
+
+<h2>Barbers</h2>
+
+<a asp-action="CreateBarber">Add Barber</a>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Photo</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach(var b in Model)
+    {
+        <tr>
+        <td>@b.Name</td>
+        <td>@b.Description</td>
+        <td>
+            @if (!string.IsNullOrEmpty(b.PhotoPath))
+            {
+                <img src="~/uploads/@b.PhotoPath" width="100" />
+            }
+        </td>
+        <td>
+            <a asp-action="EditBarber" asp-route-id="@b.Id">Edit</a> |
+            <a asp-action="DeleteBarber" asp-route-id="@b.Id">Delete</a>
+        </td>
+        </tr>
+    }
+</table>

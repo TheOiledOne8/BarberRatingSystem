@@ -1,0 +1,12 @@
+﻿@model BarberRatingSystem.Models.Review
+@{
+    ViewData["Title"] = "Edit Review";
+}
+
+<h2>Edit Review</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+    <textarea asp-for="Text" required></textarea><br />
+    <button type="submit">Save</button>
+</form>

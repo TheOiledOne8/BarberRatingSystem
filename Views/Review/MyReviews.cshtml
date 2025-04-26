@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "My.Reviews";
+    var reviews = ViewBag.MyReviews;
+}
+
+<h2>My Reviews</h2>
+
+@if (reviews.Count == 0)
+{
+    <p>You haven't written any reviews yet.</p>
+}
+else
+{
+    <table>
+        <tr>
+            <th>Barber</th>
+            <th>Review</th>
+            <th>Date</th>
+            <th>Actions</th>
+        </tr>
+
+        @foreach (var r in reviews)
+        {
+            <tr>
+                <td>@r.BarberName</td>
+                <td>@r.Text</td>
+                <td>@r.DateTime</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@r.Id">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@r.Id">Delete</a>
+
+                </td>
+            </tr>
+        }
+    </table>
+}

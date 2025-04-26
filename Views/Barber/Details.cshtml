@@ -1,0 +1,49 @@
+﻿@model BarberRatingSystem.Models.Barber
+
+@{
+    var reviews = ViewBag.Reviews as List<BarberRatingSystem.Models.Review>;
+    var isLoggedIn = Context.Session.GetInt32("UserId") != null;
+}
+
+<h2>@Model.Name</h2>
+
+<p>@Model.Description</p>
+@if (!string.IsNullOrEmpty(Model.PhotoPath))
+
+{
+    <img src="~/uploads/@Model.PhotoPath" width="200" />
+}
+
+<hr />
+
+<h3>Reviews</h3>
+@if (reviews.Count == 0)
+{
+    <p>No reviews yet.</p>
+}
+
+else
+{
+    foreach (var r in reviews)
+    {
+        <div>
+            <p>@r.Text</p>
+            <small>@r.DateTime.ToShortDateString()</small>
+        </div>
+    }
+}
+
+@if (isLoggedIn)
+{
+    <form asp-controller="Review" asp-action="Add" method="post">
+        <input type="hidden" name="BarberId" value="@Model.Id" />
+        <textarea nama="Text" placeholder="Write a review..." required></textarea><br />
+        <button type="submit">Submit Review</button>
+
+    </form>
+}
+
+else
+{
+    <p><a asp-controller="Account" asp-action="Login">Login</a> to leave a review.</p>
+}

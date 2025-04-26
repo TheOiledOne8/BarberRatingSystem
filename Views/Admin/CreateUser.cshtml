@@ -1,0 +1,21 @@
+﻿@model BarberRatingSystem.Models.User
+@{
+    ViewData["Title"] = "Add User";
+}
+
+<h2>Add User</h2>
+
+<form asp-action="Create User" method="post">
+    <input asp-for="UserName" placeholder="Username" required/>
+    <input asp-for="Password" placeholder="Password" type="password" required/>
+    <input asp-for="FirstName" placeholder="First Name" required />
+    <input asp-for="LastName" placeholder="Last Name" required />
+
+    <select asp-for="RoleId">
+        @foreach (var role in ViewBag.Roles)
+        {
+            <option value="@role.Id">@role.Name</option>
+        }
+    </select>
+    <button type="submit">Create</button>
+</form>

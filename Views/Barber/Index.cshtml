@@ -1,0 +1,27 @@
+﻿@model IEnumerable<BarberRatingSystem.Models.Barber>
+@{
+    ViewData["Title"] = "Browse Barbers";
+}
+
+<h2>Barbers<</h2>
+
+<form method="get">
+    <input type="text" name="searchTerm" placehorder="Search by name..."/>
+    <button type="submit">Search</button>
+</form>
+
+<ul>
+    @foreach (var b in Model)
+    {
+        <li>
+            <strong>@b.Name</strong> - @b.Description
+            <br /> 
+            @if (!string.IsNullOrEmpty(b.PhotoPath))
+            {
+                <img src="~/uploads/@b.PhotoPath" width="150" />
+            }
+            <br />
+            <a asp-action="Details" asp-route-id="@b.Id">View Details / Reviews </a>
+        </li>
+    }
+</ul>

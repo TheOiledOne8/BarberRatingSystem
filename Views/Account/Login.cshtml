@@ -1,0 +1,17 @@
+﻿@model BarberRatingSystem.Models.User
+
+@{
+    ViewData["Title"] = "Login";
+}
+
+@if (ViewBag.Error != null)
+{
+    <p style="color:red">@ViewBag.Error</p>
+}
+
+<h2>Login</h2>
+<form asp-action="Login" method="post">
+    <input asp-for="UserName" placeholder="Username" required />
+    <input asp-for="Password" placeholder="Password" type="password" required />
+    <button type="submit">Login</button>
+</form>
